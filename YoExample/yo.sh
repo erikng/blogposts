@@ -6,4 +6,4 @@
 	-b "Open PDF" \
 	-a "/Library/Documentation/Yo.pdf" \
 	-p \
-	-z "/System/Library/PrivateFrameworks/ToneLibrary.framework/Versions/A/Resources/AlertTones/Modern/sms_alert_note"
+	-z "sms_alert_note"
